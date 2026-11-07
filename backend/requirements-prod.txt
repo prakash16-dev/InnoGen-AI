@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+groq
+arxiv
+python-pptx
+python-docx
+python-multipart
+python-dotenv
+diagrams
