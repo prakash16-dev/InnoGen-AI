@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+.venv/
+*/venv/
+*/.venv/
+
+# Node dependencies & build
+node_modules/
+*/node_modules/
+dist/
+*/dist/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*/.env
+.env.local
+
+# Generated files
+generated_ppts/
+*/generated_ppts/
+generated_papers/
+*/generated_papers/
+generated_diagrams/
+*/generated_diagrams/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

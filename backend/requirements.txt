@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+groq
+arxiv
+python-pptx
+python-docx
+python-multipart
+diagrams
+sentence-transformers
+scikit-learn
+
+
